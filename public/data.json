@@ -1,0 +1,92 @@
+[
+    {
+        "playerName": "Virat Kohli",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "India",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Right-hand bat",
+        "price": 900
+    },
+    {
+        "playerName": "Babar Azam",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "Pakistan",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 850
+    },
+    {
+        "playerName": "Shakib Al Hasan",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "Bangladesh",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Left-arm orthodox",
+        "battingStyle": "Left-hand bat",
+        "price": 700
+    },
+    {
+        "playerName": "Jasprit Bumrah",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "India",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-hand bat",
+        "price": 800
+    },
+    {
+        "playerName": "Rashid Khan",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "Afghanistan",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm leg break",
+        "battingStyle": "Right-hand bat",
+        "price": 750
+    },
+    {
+        "playerName": "Joe Root",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "England",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 825
+    },
+    {
+        "playerName": "Ben Stokes",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "England",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm fast medium",
+        "battingStyle": "Left-hand bat",
+        "price": 875
+    },
+    {
+        "playerName": "Shaheen Afridi",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "Pakistan",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast",
+        "battingStyle": "Left-hand bat",
+        "price": 650
+    },
+    {
+        "playerName": "Kane Williamson",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "New Zealand",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 750
+    },
+    {
+        "playerName": "Andre Russell",
+        "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
+        "origin": "West Indies",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-hand bat",
+        "price": 700
+    }
+]

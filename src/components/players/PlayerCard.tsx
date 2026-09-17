@@ -1,4 +1,4 @@
-import React, { useState, type Dispatch, type SetStateAction } from "react";
+import { useState, type Dispatch, type SetStateAction } from "react";
 import type { Iplayer } from "../../types/playerType";
 import { FaUser, FaTrophy } from "react-icons/fa";
 import { toast } from "react-toastify";

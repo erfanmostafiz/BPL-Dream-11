@@ -12,7 +12,11 @@ const playersFetch = async (): Promise<Iplayer[]> => {
 
 function App() {
     // console.log(playersPromise);
+
+    // aggeh bar bar data iniate hocchilo and bar bar data fetch hocchilo
     // const playersPromise = playersFetch();
+
+    // state e dile bar bar trigger hobe na
     const [playersPromise] = useState(() => playersFetch());
 
     const [coin, setCoin] = useState(5000);
